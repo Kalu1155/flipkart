@@ -1,0 +1,87 @@
+.logo{
+    display: flex;
+    justify-content: center;
+    // background-color: black;
+}
+.merform{
+    input{
+
+        margin-right: 100px;
+    }
+    .merinput{
+        // width: 100%;
+        border: 1px solid black;
+    }
+    .mercon1{
+        margin-right: 10px;
+        padding: 20px;
+    }
+}
+.merconn1{
+    justify-content: space-around;
+}
+.mfooter{
+    width: 100%;
+    height: 100%;
+    // background-color: linear-gradient(90deg, #4cd964, #5ac8fa, #007aff, #34aadc, #5856d6, #ff2d55);
+    background-color: #EBF3FB;
+}
+.box{
+    .box1{
+        padding: 10px;
+        margin: 30px;
+    }
+}
+
+.mernav{
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-between;
+    // background-color: red;
+    .store_name{
+//         display: flex;
+//    text-align: center;
+//    align-self: center;
+//    justify-content: center;
+//    justify-content: space-around;
+    }
+    span{
+        margin-right: 200px;
+        overflow-x: hidden;
+        overflow-y: hidden;
+        position: relative;
+    }
+}
+.mercard{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.banner{
+    // background-image: url('../../Component/www.flipkart.com-1711445631140/banner' );
+    // background-size: to-upper-case($string: "lfkfokfjv olirirvkir");
+    // background-repeat: no-repeat;
+}
+.ca_rd{
+    width: 18rem;
+    // gap: 20px;
+}
+.create_pro{
+    input{
+        // width: auto;
+    }
+    textarea{
+        width: 230%;
+    }
+}
+.proimg{
+    float: right;
+    img{
+        width: 15rem;
+        margin-right: 150px;
+    }
+}
+.fom2{
+    display: flex;
+    justify-content: space-between;
+    // justify-content: space-evenly;
+}

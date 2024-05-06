@@ -1,0 +1,31 @@
+{
+    "brands": [
+      {
+        "id": 1,
+        "name": "Nike",
+        "category": "Sportswear"
+      },
+      {
+        "id": 2,
+        "name": "Gucci",
+        "category": "Luxury"
+      },
+      {
+        "id": 3,
+        "name": "Adidas",
+        "category": "Sportswear"
+      },
+      {
+        "id": 4,
+        "name": "Zara",
+        "category": "Fashion"
+      },
+      {
+        "id": 5,
+        "name": "H&M",
+        "category": "Fashion"
+      }
+      
+    ]
+  }
+  

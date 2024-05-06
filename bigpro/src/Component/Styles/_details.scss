@@ -1,0 +1,35 @@
+.smImg{
+    display: flex;
+    flex-direction: column;
+    img{
+    height: 40px;
+    margin: 10px;
+    }
+}
+.lgImg{
+    img{
+        height: 30rem;
+        width: 30rem;
+    }
+}
+.btn{
+    button{
+        padding: 18px 8px;
+    border-radius: 2px;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+    width: 98%;
+    border: none;
+    float: left;
+    background: var(--color-yellowish-orange);
+    color: var(--color-white-bg);
+    color: white;
+    margin: 5px;
+    font-weight: bold;
+    }
+    .cartBtn{
+        background-color: #ff9f00;
+    }
+    .buyBtn{
+        background-color: #fb641b;
+    }
+}

@@ -1,0 +1,30 @@
+@import '_Mynav.scss';
+@import '_mycard.scss';
+@import '_cart.scss';
+@import '_Login.scss';
+@import '_shop.scss';
+@import '_create.scss';
+@import '_details.scss';
+@import '_merchantfrm.scss';
+
+*{
+    font-family: Roboto,Arial,sans-serif;
+    box-sizing: border-box;
+}
+.dropul{
+    padding: 10px;
+    ul{
+        li{
+            margin: 30px 5px;
+            &:hover{
+                font-weight: bold;
+            }
+        }
+    }
+}
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+  .dropdown>.dropdown-toggle:active {
+      pointer-events: none;
+  }  

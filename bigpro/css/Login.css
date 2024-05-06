@@ -1,0 +1,14 @@
+.login button {
+  margin-left: 240px;
+  width: 10vw;
+  border-radius: 0;
+  border: 1px solid #dbdbdb;
+  background-color: white;
+  color: #2874f0;
+  align-items: center;
+  height: 5vh;
+  line-height: 20px;
+  font-size: 16px;
+  letter-spacing: 0.1px;
+  font-weight: 500;
+}/*# sourceMappingURL=Login.css.map */
